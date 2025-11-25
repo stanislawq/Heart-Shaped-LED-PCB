@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+D:\present\present_pcb\Project Outputs for present_pcb\Pick Place for PCB3.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19.12.24
+Time:       01:07
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint            Center-X(mil) Center-Y(mil) Rotation Description                                                                                                             
+R17        CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5334.646      2649.606      308      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R16        CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5114.173      2649.606      232      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+D16        HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5338.583      2539.370      40       "LED RED DIFFUSED CHIP SMD"                                                                                             
+D15        HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5118.110      2539.370      140      "LED RED DIFFUSED CHIP SMD"                                                                                             
+VCC        VCC                TopLayer    PCBComponent_1       5282.834      2299.212      90       ""                                                                                                                      
+U1         ATMEGA328PB-AU     TopLayer    ATML-32A_L           5230.000      3185.000      315      "AVR Microcontroller, 1.8 to 5.5 V, 32 KB Flash, 1 KB EEPROM, 2 KB SRAM, -40 to 85 degC, 32-Pin TQFP (32A), RoHS, Tray" 
+SW1        EVQ-P7B01P         BottomLayer FP-EVQ-P7B01P-MFG    4492.795      3105.000      90       "SWITCH TACTILE SPST-NO 0.05A 12V"                                                                                      
+SCK        "SCK "             TopLayer    PCBComponent_1       5177.166      2299.212      90       ""                                                                                                                      
+RESET      "RESET "           TopLayer    PCBComponent_1       5550.000      2374.016      90       ""                                                                                                                      
+R15        CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5724.410      3200.787      338      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R14        CH02016-50RGFT     BottomLayer FP-CH02016-MFG       4940.945      2807.087      225      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R13        CH02016-50RGFT     BottomLayer FP-CH02016-MFG       4795.276      2984.252      218      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R12        RN73C2A53R0BTDF    BottomLayer FP-RN732A-MFG        5664.370      3110.000      0        "SMD Chip Resistor, Thin Film, 53.0O, 100 V, 0805 [2012 Metric], 100 mW, 0.1%, RN73 Series"                             
+R11        CH02016-50RGFT     BottomLayer FP-CH02016-MFG       4726.066      3202.829      205      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R10        CH02016-50RGFT     BottomLayer FP-CH02016-MFG       4705.000      3400.000      180      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R9         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       4755.905      3547.245      145      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R8         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       4807.087      3594.488      85       "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R7         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5515.748      2807.087      315      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R6         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5661.418      2984.252      322      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R5         CH02016-50RGFT     TopLayer    FP-CH02016-MFG       5726.693      3400.000      0        "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R4         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5700.787      3547.245      35       "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R3         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5649.607      3594.489      95       "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R2         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5011.811      3574.803      225      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+R1         CH02016-50RGFT     BottomLayer FP-CH02016-MFG       5448.819      3574.803      135      "Thin Film Surface Mnt Resistor 02016 Case 50Ohm +/-2% 0.03W +/-100ppm/degC"                                            
+MOSI       "MOSI "            TopLayer    PCBComponent_1       5040.000      2322.834      90       ""                                                                                                                      
+MISO       MISO               TopLayer    PCBComponent_1       4905.000      2374.016      90       ""                                                                                                                      
+GND        GND                TopLayer    PCBComponent_1       5415.000      2322.834      90       ""                                                                                                                      
+DS1        HSMG-C170          BottomLayer AVAG-HSMX-C170_V     5970.000      3106.299      90       "Chip LED, Green, 2.2 V, -40 to 85 degC, 2-Pin SMD, Pb-Free, Tape and Reel"                                             
+D14        HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5803.150      3094.488      65       "LED RED DIFFUSED CHIP SMD"                                                                                             
+D13        HSMS-C150          TopLayer    FP-HSMS-C150-MFG     4937.008      2704.724      135      "LED RED DIFFUSED CHIP SMD"                                                                                             
+D12        HSMS-C150          TopLayer    FP-HSMS-C150-MFG     4779.528      2885.826      128      "LED RED DIFFUSED CHIP SMD"                                                                                             
+D11        HSMS-C150          TopLayer    FP-HSMS-C150-MFG     4653.543      3094.488      115      "LED RED DIFFUSED CHIP SMD"                                                                                             
+D10        HSMS-C150          TopLayer    FP-HSMS-C150-MFG     4602.362      3330.709      90       "LED RED DIFFUSED CHIP SMD"                                                                                             
+D9         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     4673.228      3555.118      55       "LED RED DIFFUSED CHIP SMD"                                                                                             
+D8         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     4881.890      3661.417      175      "LED RED DIFFUSED CHIP SMD"                                                                                             
+D7         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5519.685      2704.724      45       "LED RED DIFFUSED CHIP SMD"                                                                                             
+D6         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5677.166      2885.826      52       "LED RED DIFFUSED CHIP SMD"                                                                                             
+D5         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5854.330      3330.709      90       "LED RED DIFFUSED CHIP SMD"                                                                                             
+D4         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5783.464      3555.118      125      "LED RED DIFFUSED CHIP SMD"                                                                                             
+D3         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5574.803      3661.417      5        "LED RED DIFFUSED CHIP SMD"                                                                                             
+D2         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5114.173      3582.678      135      "LED RED DIFFUSED CHIP SMD"                                                                                             
+D1         HSMS-C150          TopLayer    FP-HSMS-C150-MFG     5342.520      3582.678      45       "LED RED DIFFUSED CHIP SMD"                                                                                             
+C2         GCM21BR70J106KE22L BottomLayer FP-GCM21B-0_15-IPC_C 4488.189      2909.448      0        "Ceramic Capacitor for Automotive 10uF ±10% 6.3VDC X7R 0805 Embossed T/R"                                               
+C1         GCM21BR70J106KE22L BottomLayer FP-GCM21B-0_15-IPC_C 4488.189      3299.212      180      "Ceramic Capacitor for Automotive 10uF ±10% 6.3VDC X7R 0805 Embossed T/R"                                               
+BT1        105                BottomLayer FP-105-MFG           5230.000      3237.087      90       "105 Battery Holder Coin Cell 1 Cell PC Pin PCB Through Hole Mount PBT 0.944 in. Dia"                                   
